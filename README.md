@@ -18,7 +18,7 @@ This project is a basic yet fully operational calculator capable of performing s
 
 📁 Folder Structure
 calculator/
-│
-├── index.html
-├── style.css
-└── script.js
+ │
+ ├── index.html
+ ├── style.css
+ └── script.js
