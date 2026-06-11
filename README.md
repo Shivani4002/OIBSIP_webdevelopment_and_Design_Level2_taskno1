@@ -15,10 +15,11 @@ This project is a basic yet fully operational calculator capable of performing s
 
 5. Easy to integrate and modify
 
-
+```
 📁 Folder Structure
 calculator/
  │
  ├── index.html
  ├── style.css
  └── script.js
+```
